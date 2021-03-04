@@ -1,4 +1,2 @@
-<p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jhon9191=anuraghazra&show_icons=true&theme=radical)
-  </p>
-
+![João Antônio GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhon9191&show_icons=true&theme=radical)
+ 
