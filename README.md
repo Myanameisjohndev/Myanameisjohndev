@@ -1,4 +1,6 @@
-<p align="center"> ![João Antônio GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhon9191&show_icons=true&theme=radical)</p>
+<div align="center">
+ ![João Antônio GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhon9191&show_icons=true&theme=radical)
+ <div>
 
 
  
